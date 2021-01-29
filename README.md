@@ -1,4 +1,5 @@
 ### Hi there 👋
+<!--
 
 <h3 align="center">A passionate frontend developer from Brazil!</h3>
 
@@ -110,6 +111,7 @@
     </a>
 </p>
 
+-->
 
 <!--
 **komysh/komysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
